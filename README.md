@@ -13,6 +13,7 @@ The following is a list of tasks and milestones that are needed to reach the rel
     - [ ] Tag handling. _**TODO**_
     - [ ] Entity creation. _**TODO**_
     - [ ] Entity states. _**TODO**_
+    - [ ] Scenario handling. _**TODO**_
     - [ ] Physics engine.
       - [ ] Collision detection. _**TODO**_
       - [ ] Gravity and slope behavior. _**TODO**_
@@ -21,6 +22,8 @@ The following is a list of tasks and milestones that are needed to reach the rel
     - [ ] Game states. _**TODO**_
     - [ ] Player stats. _**TODO**_
     - [ ] AI logic handling. _**TODO**_ 
+    - [ ] Cutscene handling. _**TODO**_
+    - [ ] LISP parsing. _**TODO**_
   - [ ] Networking.
     - [ ] Sockets. _**TODO**_
     - [ ] Game state integration. _**TODO**_
