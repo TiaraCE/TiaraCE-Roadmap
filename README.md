@@ -50,6 +50,7 @@ The following is a list of tasks and milestones that are needed to reach the rel
         - [ ] BSP. _**TODO**_
         - [ ] GBX. _**TODO**_
         - [ ] Animations. _**TODO**_
+        - [ ] Classic ragdolls. _**TODO**_
         - [ ] Materials. _**TODO**_
       - [ ] Geometry shaders._**TODO**_
   - [ ] Audio.
