@@ -63,7 +63,7 @@ The following is a list of tasks and milestones that are needed to reach the rel
       - [ ] HUD sounds. _**TODO**_
       - [ ] Pseudo-3D playback support. _**TODO**_
       - [ ] Full-3D playback support. _**TODO**_
-  - [ ] Game saves.
+  - [ ] Game saves. **Researching** (@yumiris)
     - [ ] Saving. _**TODO**_
     - [ ] Loading. _**TODO**_
     - [ ] Deleting saves. _**TODO**_
