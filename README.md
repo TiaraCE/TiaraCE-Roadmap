@@ -6,7 +6,7 @@ The following is a list of tasks and milestones that are needed to reach the rel
 - [ ] **Core Engine:**
   - [ ] Map parsing. _**In Progress**_ (@Halogen002)
   - [ ] Main loop. _**TODO**_
-  - [ ] Command console. _**TODO**_
+  - [ ] Command console. **Researching** (@aFoxNamedMorris)
   - [ ] Main configuration. _**TODO**_
   - [ ] Game logic.
     - [ ] Main logic. _**TODO**_
