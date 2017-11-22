@@ -24,7 +24,7 @@ The following is a list of tasks and milestones that are needed to reach the rel
     - [ ] AI logic handling. _**TODO**_ 
     - [ ] Cutscene handling. _**TODO**_
     - [ ] LISP parsing. _**TODO**_
-  - [ ] Networking.
+  - [ ] Networking. **Researching** (@sunstriker7) 
     - [ ] Sockets. _**TODO**_
     - [ ] Game state integration. _**TODO**_
     - [ ] Player stats integration. _**TODO**_
