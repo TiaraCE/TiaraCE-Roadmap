@@ -4,6 +4,8 @@ Roadmap and milestone task list for TiaraCE. **WIP**
 The following is a list of tasks and milestones that are needed to reach the release TiaraCE version 1.0:
 
 -   [ ] **Core Engine:**
+
+
     -   [ ] Map parsing. _**In Progress**_ (@Halogen002)
     -   [ ] Main loop. **Researching** (@Floofies)
     -   [ ] Command console. **Researching** (@aFoxNamedMorris)
@@ -36,6 +38,8 @@ The following is a list of tasks and milestones that are needed to reach the rel
 
 
 -   [ ] **Client:**
+
+
     -   [ ] Input handling. _**TODO**_
     -   [ ] Client-specific configuration. _**TODO**_
     -   [ ] GUI.
